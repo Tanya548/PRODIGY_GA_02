@@ -1,4 +1,4 @@
-# PRODIGY_GA_02
+
 # PRODIGY_GA_02
 
 # Task Number-2: Image Generation with Pre-trained Models
